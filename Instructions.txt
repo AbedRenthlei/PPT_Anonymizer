@@ -1,0 +1,7 @@
+How to Use PPT Anonymizer
+1. Double-click PPT_Anonymizer.exe.
+2. Drag a PowerPoint (.pptx) file into the box or click to select one.
+3. Choose a name for the new file.
+4. Click "Anonymize".
+5. Open the new file in PowerPoint to see the text changed to 'x'.
+Note: Font colors might change.git add ppt_text_anonymizer_gui.py Instructions.txt .gitignore
